@@ -1,0 +1,14 @@
+Factory Method Pattern
+
+The Factory Method Pattern provides an interface for creating objects without specifying their exact classes.
+
+Advantages:
+1. Promotes loose coupling.
+2. Makes code extensible.
+3. Simplifies object creation.
+
+In this exercise:
+- Document is the interface.
+- WordDocument, PdfDocument and ExcelDocument are concrete products.
+- DocumentFactory is the creator.
+- Concrete factories create specific document objects.
