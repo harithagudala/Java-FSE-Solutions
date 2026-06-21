@@ -1,0 +1,18 @@
+JUnit Setup
+
+JUnit is a testing framework used to automate unit testing in Java.
+
+Concepts Used:
+1. Test Class
+2. @Test Annotation
+3. assertEquals()
+
+Advantages:
+1. Automated testing
+2. Faster debugging
+3. Improved code quality
+4. Easier maintenance
+
+In this exercise:
+- Calculator.java contains the application code.
+- CalculatorTest.java contains the JUnit test case.
