@@ -1,0 +1,25 @@
+JUnit Assertions
+
+Assertions are methods used to verify expected results in test cases.
+
+Assertions Used:
+
+1. assertEquals()
+   Verifies that expected and actual values are equal.
+
+2. assertTrue()
+   Verifies that a condition is true.
+
+3. assertFalse()
+   Verifies that a condition is false.
+
+4. assertNull()
+   Verifies that an object is null.
+
+5. assertNotNull()
+   Verifies that an object is not null.
+
+Advantages:
+- Improves testing accuracy.
+- Detects bugs early.
+- Automates validation.
