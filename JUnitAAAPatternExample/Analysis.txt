@@ -1,0 +1,28 @@
+Arrange-Act-Assert (AAA) Pattern
+
+AAA Pattern organizes test cases into three phases:
+
+1. Arrange
+   Prepare the objects and test data.
+
+2. Act
+   Execute the method being tested.
+
+3. Assert
+   Verify the expected result.
+
+Setup and Teardown
+
+@Before
+Executes before every test method.
+Used for initializing objects.
+
+@After
+Executes after every test method.
+Used for cleaning up resources.
+
+Advantages:
+1. Cleaner test code.
+2. Reusable setup.
+3. Easier maintenance.
+4. Better readability.
