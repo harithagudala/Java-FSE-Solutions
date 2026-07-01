@@ -1,0 +1,18 @@
+Mockito Mocking and Stubbing
+
+Mocking:
+Mockito creates fake objects for testing without using real external dependencies.
+
+Stubbing:
+Stubbing defines the values that mocked methods should return.
+
+Concepts Used:
+1. Mockito.mock()
+2. when().thenReturn()
+3. assertEquals()
+
+Advantages:
+1. Faster testing.
+2. No dependency on external APIs.
+3. Reliable and repeatable tests.
+4. Easier debugging.
