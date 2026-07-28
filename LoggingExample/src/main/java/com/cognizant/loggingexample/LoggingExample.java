@@ -1,4 +1,4 @@
-package com.cognizant;
+package com.cognizant.logging;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,6 +13,5 @@ public class LoggingExample {
         logger.error("This is an error message");
 
         logger.warn("This is a warning message");
-
     }
 }
